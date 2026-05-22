@@ -124,11 +124,13 @@ An advanced drillthrough page designed to provide detailed nutritional insights 
 
 Users can right-click any dish from the dashboard and directly navigate to detailed nutritional insights.
 
----
 
 ### 📷 Drillthrough Page Preview
 
+
 ![Drillthrough Analysis](Images/Dish-Nutrition-Deep-Dive.png)
+
+
 
 ## 🔍 3. Interactive Tooltip Analysis
 
@@ -142,11 +144,12 @@ This tooltip page provides quick nutritional insights when hovering over dishes 
 - Compact nutritional insights
 - Improved dashboard interactivity
 
----
-
 ### 📷 Tooltip Preview
 
+
 ![Tooltip Analysis](Images/Dish-Nutrition-Quick-View.png)
+
+
 
 # 🧠 Business Intelligence Workflow
 
