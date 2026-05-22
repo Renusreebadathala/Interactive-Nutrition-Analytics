@@ -107,10 +107,10 @@ The main dashboard provides a complete nutritional comparison between Traditiona
 ### 📷 Dashboard Preview
 
 ```md
-![Dashboard Overview](Images/Dashboard-overview.png)
-```
 
----
+![Dashboard Overview](Images/Dashboard-overview.png)
+
+```
 
 ## 🎯 2. Drillthrough Nutrition Details
 
