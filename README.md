@@ -128,9 +128,7 @@ Users can right-click any dish from the dashboard and directly navigate to detai
 
 ### 📷 Drillthrough Page Preview
 
-```md
 ![Drillthrough Analysis](Images/Dish Nutrition Deep Dive.png)
-```
 
 ---
 
@@ -150,9 +148,7 @@ This tooltip page provides quick nutritional insights when hovering over dishes 
 
 ### 📷 Tooltip Preview
 
-```md
 ![Tooltip Analysis](Images/Dish Nutrition Quick View.png)
-```
 
 ---
 
