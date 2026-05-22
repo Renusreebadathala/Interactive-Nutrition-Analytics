@@ -107,33 +107,12 @@ The main dashboard provides a complete nutritional comparison between Traditiona
 ### 📷 Dashboard Preview
 
 ```md
-![Main Dashboard](Images/dashboard-overview.png)
+![Main Dashboard](Images/Dashboard-overview.png)
 ```
 
 ---
 
-## 🔍 2. Detailed Nutrient Breakdown
-
-This page provides deeper nutritional analysis for selected food items.
-
-### Included Features
-
-- Nutrient-level analysis
-- Comparative visualizations
-- Interactive filtering
-- Dish-specific nutritional insights
-
----
-
-### 📷 Detailed Breakdown Preview
-
-```md
-![Detailed Breakdown](Images/detailed-breakdown.png)
-```
-
----
-
-## 🎯 3. Drillthrough Nutrition Details
+## 🎯 2. Drillthrough Nutrition Details
 
 An advanced drillthrough page designed to provide detailed nutritional insights for individual dishes.
 
@@ -153,7 +132,29 @@ Users can right-click any dish from the dashboard and directly navigate to detai
 ### 📷 Drillthrough Page Preview
 
 ```md
-![Drillthrough Analysis](Images/drillthrough-page.png)
+![Drillthrough Analysis](Images/Dish Nutrition Deep Dive.png)
+```
+
+---
+
+## 🔍 3. Interactive Tooltip Analysis
+
+This tooltip page provides quick nutritional insights when hovering over dishes and visuals.
+
+### Included Features
+
+- Quick nutrition preview
+- Instant nutrient comparison
+- Hover-based interaction
+- Compact nutritional insights
+- Improved dashboard interactivity
+
+---
+
+### 📷 Tooltip Preview
+
+```md
+![Tooltip Analysis](Images/Dish Nutrition Quick View.png)
 ```
 
 ---
@@ -222,19 +223,15 @@ The dashboard helps answer analytical questions such as:
 # 📂 Project Structure
 
 ```bash
-Nutrition-Analytics-Dashboard/
-│
-├── Dataset/
-│   ├── traditional_foods.csv
-│   ├── processed_foods.csv
+Interactive-Nutrition-Analytics-Dashboard/
 │
 ├── Dashboard/
-│   ├── Nutrition_Analytics.pbix
+│   └── Nutrition_Analytics.pbix
 │
 ├── Images/
-│   ├── dashboard-overview.png
-│   ├── detailed-breakdown.png
-│   ├── drillthrough-page.png
+│   ├── Dashboard-overview.png
+│   ├── Dish Nutrition Deep Dive.png
+│   ├── Dish Nutrition Quick View.png
 │
 └── README.md
 ```
@@ -260,16 +257,6 @@ Right-click visuals to access drillthrough pages.
 
 ---
 
-# 🌟 Future Enhancements
-
-- AI-powered food recommendation engine
-- Predictive nutrition analytics
-- Real-time nutrition tracking
-- Personalized health scoring
-- Mobile-responsive dashboard optimization
-- API integration with healthcare applications
-
----
 
 # 🧩 Skills Demonstrated
 
@@ -285,17 +272,6 @@ Data Visualization
 Healthcare Analytics
 Analytical Storytelling
 ```
-
-# 👩‍💻 Author
-
-## Renusree B
-
-🎓 BE Computer Science and Engineering  
-📊 Data Analytics Enthusiast  
-💡 Skilled in Power BI, SQL, Python, and Business Intelligence  
-🏥 Interested in Healthcare Analytics and Data Visualization  
-
----
 
 # ⭐ Support
 
